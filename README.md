@@ -27,5 +27,5 @@ Advanced Analytics & Data Storytelling
 
 I’m continuously learning and improving, and I’d love your feedback on this project!
 
-🔗 View the live dashboard here:https://app.powerbi.com/view?r=eyJrIjoiNjg2NWRiZmMtNWUzZS00MmEwLWIxOTMtZDc3ZjY4Mzk1OTRmIiwidCI6ImUwNDA2YThjLWFlZmItNDQyNS05ZTJkLTkwYjNjZGEyNGNhYSJ9
+🔗 View the live dashboard here:https://app.powerbi.com/view?r=eyJrIjoiYjE3ZjFmMTMtZTBmZC00ZjczLTk4NzUtNTg5OTYxZjFhMGFjIiwidCI6ImUwNDA2YThjLWFlZmItNDQyNS05ZTJkLTkwYjNjZGEyNGNhYSJ9&pageName=535fb0b90bdc48c85ccb
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #Dashboard #CustomerInsights #Analytics #Projects #DataDriven #ProfessionalDevelopment
